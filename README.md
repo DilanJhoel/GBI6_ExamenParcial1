@@ -1,10 +1,10 @@
 # Universidad Regional Amazónica "Ikiam" 
 ## GBI6_ExamenParcial1
 ### Datos Personales
-Nombre: Dilan Jhoel Porras Quinaucho
-Fecha: 13 de enero del 2022
-Correo: dilan.porras@est.ikiam.edu.ec
-Sexto semestre
+Nombre: Dilan Jhoel Porras Quinaucho<br> 
+Fecha: 13 de enero del 2022<br> 
+Correo: dilan.porras@est.ikiam.edu.ec<br> 
+Sexto semestre<br> 
 
 ### Características del computador
       Time of this report: 1/13/2022, 13:50:36
