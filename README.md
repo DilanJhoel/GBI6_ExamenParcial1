@@ -34,9 +34,9 @@ Microsoft Graphics Hybrid: Not Supported
 Git Bash, Atom, Anaconda Navigator, Jupyter Notebook y GitHub.
 
 ### Explicación de la data utilizada
-1. Se uso Anaconda Navigator para abrir Jupyter Notebook
-2. Se uso el ambiente de Jupyter Notebook para leer y subir los ejercicios del GBI6_ExamenParcial1
-3. Se creo archivos y se trabajaron en Git Bash
-4. Se uso Atom para realizar los scripts .sh y mediante git push subirlos a Git Hub en repositorios
+1. Se uso Anaconda Navigator para abrir Jupyter Notebook.
+2. Se uso el ambiente de Jupyter Notebook para leer y subir los ejercicios del GBI6_ExamenParcial1.
+3. Se creo archivos y se trabajaron en Git Bash.
+4. Se uso Atom para realizar los scripts .sh y mediante git push subirlos a Git Hub en repositorios.
 
 
