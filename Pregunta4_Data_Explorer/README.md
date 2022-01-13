@@ -1,1 +1,1 @@
-#Pregunta 4 Data Explorer ##Contenido: Metadata, data y script
+#Contenido: Metadata, data y script
