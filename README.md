@@ -31,12 +31,11 @@ Microsoft Graphics Hybrid: Not Supported
            DxDiag Version: 10.00.19041.0928 64bit Unicode
 
 ### Programas utilizados
-Git Bash, Atom, Anaconda Navigator, Jupyter Notebook y GitHub.
+Git Bash, Atom, Anaconda Navigator, Jupyter Notebook, Jupyter Lab y GitHub.
 
 ### Explicación de la data utilizada
-1. Se uso Anaconda Navigator para abrir Jupyter Notebook.
-2. Se uso el ambiente de Jupyter Notebook para leer y subir los ejercicios del GBI6_ExamenParcial1.
-3. Se creo archivos y se trabajaron en Git Bash.
-4. Se uso Atom para realizar los scripts .sh y mediante git push subirlos a Git Hub en repositorios.
-
+Pregunta 4 "1.10.4 Data Explorer": Se usaron los datos (información taxonómica, abundancia y biomasa de los árboles) tomados por Buzzard et al. (2016) sobre el crecimiento de un bosque en Costa Rica que se almacenaron en Buzzard2015_data.csv<br>
+Pregunta 5 "1.10.2 Hormone Levels in Baboons": Se usaron los datos (maleID, %C-G, %T) tomados por Gesquiere et al. (2011) sobre el estudio de los niveles hormonales en la sangre de los babuinos con varios muestreos que se almacenaron en Gesquiere2011_data.csv<br>
+Pregunta 9: Se usaron datos sobre modelos de vehículos de este link: https://github.com/sap0408/mtcars/blob/master/mtcars.csv<br> 
+Pregunta 10: Se usaron datos sobre las propiedades de los aminoácidos de este link: http://www.russelllab.org/aas/aas.html
 
