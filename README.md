@@ -36,6 +36,7 @@ Git Bash, Atom, Anaconda Navigator, Jupyter Notebook, Jupyter Lab y GitHub.
 ### Explicación de la data utilizada
 Pregunta 4 "1.10.4 Data Explorer": Se usaron los datos (información taxonómica, abundancia y biomasa de los árboles) tomados por Buzzard et al. (2016) sobre el crecimiento de un bosque en Costa Rica que se almacenaron en Buzzard2015_data.csv<br>
 Pregunta 5 "1.10.2 Hormone Levels in Baboons": Se usaron los datos (maleID, %C-G, %T) tomados por Gesquiere et al. (2011) sobre el estudio de los niveles hormonales en la sangre de los babuinos con varios muestreos que se almacenaron en Gesquiere2011_data.csv<br>
+Pregunta 8: Se usaron las 10 primeras letras del alfabeto.<br>
 Pregunta 9: Se usaron datos sobre modelos de vehículos de este link: https://github.com/sap0408/mtcars/blob/master/mtcars.csv<br> 
 Pregunta 10: Se usaron datos sobre las propiedades de los aminoácidos de este link: http://www.russelllab.org/aas/aas.html
 
